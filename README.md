@@ -1,6 +1,6 @@
 # Mineria de datos
-## Primer parcial
-- [Bucle contraseña](https://github.com/YaayoV/Mineria-de-datos-Primer-Parcial/blob/main/Bucle%20contrase%C3%B1a.py)
+## Segundo parcial
+- [Medidas de tendencia central](https://github.com/YaayoV/Mineria-de-datos-Primer-Parcial/blob/main/Bucle%20contrase%C3%B1a.py)
 - [Factorial](https://github.com/YaayoV/Mineria-de-datos-Primer-Parcial/blob/main/Factorial.py)
 - [FIzzBuzz](https://github.com/YaayoV/Mineria-de-datos-Primer-Parcial/blob/main/Fizzbuzz.py)
 - [Funciones](https://github.com/YaayoV/Mineria-de-datos-Primer-Parcial/blob/main/Funciones.py)
