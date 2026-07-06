@@ -16,3 +16,7 @@ print("correlacion:", correlacion)
 print("\n----- Examen y Calificacion Final -----")
 correlacion = datos["Examen"].corr(datos["Calificacion_Final"])
 print("correlacion:", correlacion)
+
+print("\n----- Edad y Calificacion Final -----")
+correlacion = datos["Edad"].corr(datos["Calificacion_Final"])
+print("correlacion:", correlacion)
