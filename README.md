@@ -4,3 +4,4 @@
 - [Medidas de dispersion](https://github.com/YaayoV/Mineria-de-datos-Segundo-Parcial/blob/main/Medidas%20de%20dispersion.py)
 - [Correlaciones](https://github.com/YaayoV/Mineria-de-datos-Segundo-Parcial/blob/main/correlaciones.py)
 - [Correlaciones con graficas de dispersion](https://github.com/YaayoV/Mineria-de-datos-Segundo-Parcial/blob/main/correlaciones%20con%20graficas%20de%20dispersion.py)
+- [Grafica de barras, bigotes e histograma](https://github.com/YaayoV/Mineria-de-datos-Segundo-Parcial/blob/main/Grafica%20de%20barras%2C%20bigotes%20e%20histograma.py)
