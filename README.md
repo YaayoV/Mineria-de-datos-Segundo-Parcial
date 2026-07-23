@@ -7,4 +7,4 @@
 - [Grafica de barras, bigotes e histograma](https://github.com/YaayoV/Mineria-de-datos-Segundo-Parcial/blob/main/Grafica%20de%20barras%2C%20bigotes%20e%20histograma.py)
 - [Diagrama de aprobados y reprobados](https://github.com/YaayoV/Mineria-de-datos-Segundo-Parcial/blob/main/Diagrama%20de%20aprobados%20y%20reprobados.jpg)
 - [Cuadro comparativo](https://github.com/YaayoV/Mineria-de-datos-Segundo-Parcial/blob/main/Cuadro%20comparativo.pdf)
-- [Diagrama de aprobados y reprobados](https://github.com/YaayoV/Mineria-de-datos-Segundo-Parcial/blob/main/Metodos%20estadisticos.py)
+- [Metodos Estadisticos](https://github.com/YaayoV/Mineria-de-datos-Segundo-Parcial/blob/main/Metodos%20estadisticos.py)
